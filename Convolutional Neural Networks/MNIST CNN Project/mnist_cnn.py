@@ -1,6 +1,6 @@
 """
 --------------------------------------------------------------------------------------
-Build a Convolutional Neural Network to Make Classifications from the MNIST Dataset
+Build a Convolutional Neural Network to Classify Images from the MNIST Dataset
 --------------------------------------------------------------------------------------
 Gianluca Capraro
 Created: June 2019
