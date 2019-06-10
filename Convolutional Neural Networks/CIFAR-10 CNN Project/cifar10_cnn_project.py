@@ -1,6 +1,6 @@
 """
 --------------------------------------------------------------------------------------
-Project: Create and Train a CNN to Make Classifications from the CIFAR-10 Dataset
+Project: Create and Train a CNN to Classify Images from the CIFAR-10 Dataset
 --------------------------------------------------------------------------------------
 Gianluca Capraro
 Created: June 2019
