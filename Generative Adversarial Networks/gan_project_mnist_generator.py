@@ -22,7 +22,10 @@ import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
 mnist = input_data.read_data_sets("../03-Convolutional-Neural-Networks/MNIST_data/",one_hot=True)
 
+print("Showing example MNIST Handwritten Number...")
 plt.imshow(mnist.train.images[5].reshape(28,28),cmap='Greys')
+plt.show()
+print('\n')
 
 """
 The Generator
