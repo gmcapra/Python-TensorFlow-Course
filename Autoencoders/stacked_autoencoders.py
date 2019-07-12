@@ -7,7 +7,7 @@ Created: July 2019
 -----------------------------------------------------------------------------------------
 This script will use data from the MNIST Dataset, it is available from TensorFlow's public
 examples and tutorials libraries. The purpose of this script is to demonstrate how to create 
-stacked autoencoder and to help visualize how accurate the reconstructions coming out of 
+a stacked autoencoder and to help visualize how accurate the reconstructions coming out of 
 the output layer of the model are.
 -----------------------------------------------------------------------------------------
 """
