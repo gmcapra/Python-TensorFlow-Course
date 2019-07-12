@@ -28,7 +28,7 @@ plt.show()
 print('\n')
 
 """
-The Generator
+Define The Generator
 """
 def generator(z,reuse=None):
     with tf.variable_scope('gen',reuse=reuse):
@@ -42,7 +42,7 @@ def generator(z,reuse=None):
         return output
     
 """
-The Discriminator
+Define The Discriminator
 """
 def discriminator(X,reuse=None):
     with tf.variable_scope('dis',reuse=reuse):
