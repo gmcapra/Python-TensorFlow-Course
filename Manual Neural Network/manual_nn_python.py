@@ -5,7 +5,7 @@ Using Python to Manually Build Out a Simple Neural Network for Classification
 Gianluca Capraro
 Created: June 2019
 -------------------------------------------------------------------------------------
-This script will demonstrate manual creation of a simple neural network to mimic the
+This script demonstrates manual creation of a simple neural network to mimic the
 TensorFlow API. The purpose is to closely develop an understanding of the building 
 blocks that make up a neural network prior to working with the TensorFlow library. This
 script will use artifical data to attempt to classify points into 1 of 2 classes.
