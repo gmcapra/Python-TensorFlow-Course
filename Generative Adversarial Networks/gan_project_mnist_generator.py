@@ -5,7 +5,7 @@ Generative Adversarial Networks (GAN) Project - Generate MNIST Handwritten Numbe
 Gianluca Capraro
 Created: July 2019
 -----------------------------------------------------------------------------------------
-A generative adversarial network or GAN is a type of machine learning system invented by 
+A generative adversarial network or GAN is a machine learning system invented by 
 Ian Goodfellow and co in 2014. The idea is that two neural networks contest with each 
 other in a game. Given a training set, the model learns to generate new data with the 
 same statistics as the training set.
